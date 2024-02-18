@@ -1,5 +1,3 @@
-# Nine-Tails
-
 # Fedora 39 Real Time Kernel (6.7.3-100)
 
 sudo rpm -ivh kernel-6.7.3-100.fc39.aarch64.rpm kernel-core-6.7.3-100.fc39.aarch64.rpm kernel-modules-core-6.7.3-100.fc39.aarch64.rpm kernel-modules-6.7.3-100.fc39.aarch64.rpm
